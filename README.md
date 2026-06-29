@@ -1,8 +1,12 @@
 # PlanCheck
 
-> İmar mevzuatına uygunluk denetimini otomatikleştiren mimari proje ön-kontrol sistemi.
+![Durum](https://img.shields.io/badge/durum-geliştiriliyor-orange)
 
-PlanCheck, mimarların belediyeye sunduğu ruhsat projelerini, ilgili belediyenin imar yönetmeliği ve meclis kararları çerçevesinde **otomatik olarak denetleyen** bir uygulamadır. Manuel kontrol nedeniyle aylar süren "gönder–düzelt–tekrar gönder" döngüsünü dakikalara indirmeyi hedefler.
+> 🚧 İmar mevzuatına uygunluk denetimini otomatikleştiren mimari proje ön-kontrol sistemi.
+
+> ⚠️ **Bu proje aktif geliştirme aşamasındadır.** Özellikler, yapı ve dokümantasyon zaman içinde değişebilir. Aşağıda anlatılan kapsam, projenin hedeflenen tam vizyonunu yansıtır; tüm özellikler henüz tamamlanmamıştır. Güncel durum için [Yol Haritası](#yol-haritası) bölümüne bakınız.
+
+PlanCheck, mimarların belediyeye sunduğu ruhsat projelerini, ilgili belediyenin imar yönetmeliği ve meclis kararları çerçevesinde **otomatik olarak denetlemeyi** hedefleyen bir uygulamadır. Manuel kontrol nedeniyle aylar süren "gönder–düzelt–tekrar gönder" döngüsünü dakikalara indirmeyi amaçlar.
 
 ---
 
