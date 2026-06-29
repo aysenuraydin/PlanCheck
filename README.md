@@ -315,4 +315,4 @@ Denetim mantığı kullanmaz — tamamen kesin geometrik ve aritmetik hesaplara 
 
 ---
 
-*PlanCheck — ruhsat sürecindeki ay süren kontrolü dakikalara indirir.*
+*PlanCheck — ruhsat sürecindeki aylar süren kontrolü dakikalara indirir.*
